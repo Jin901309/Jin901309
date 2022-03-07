@@ -10,6 +10,7 @@
 - html <br>
 - javascript <br>
 - vue.js <br>
+- python <br>
 - django <br>
 - laravel (기본적인 것) <br>
 - java기본문법은 알음. <br>
