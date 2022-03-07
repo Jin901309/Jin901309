@@ -23,6 +23,9 @@
 ## 아직은 모르나 빠른 시일 내에 공부 할 수 있는 기술
  - java spring <br>
 
+## 채용 안될 시 향 후 만들 포트폴리오
+ - 며칠내 vue.js django(restapi) tailwind 사용하여 만들 예정 (뭘만들지는 아직 미정)
+
 
 
 
