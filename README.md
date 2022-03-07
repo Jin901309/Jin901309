@@ -11,10 +11,10 @@
 - javascript <br>
 - vue.js <br>
 - python <br>
-- django <br>
-- laravel (기본적인 것) <br>
+- django (공식문서 보면서 할 수 있음) <br>
+- laravel (공식문서 보면서 할 수 있음) <br>
 - java기본문법 <br>
-- node.js (기본적인 것)
+- node.js (공식문서 보면서 할 수 있음)
 
 ## 배웟으나 당장은 못하고 좀 훑어보고 빠르게 쓸 수 있는 기술
 - android(학교에서 잘 했으나 안 쓴지 오래됨) <br>
