@@ -11,10 +11,11 @@
 - javascript <br>
 - vue.js <br>
 - django <br>
-- laravel <br>
+- laravel (기본적인 것) <br>
 - java기본문법은 알음. <br>
+- node.js (기본적인 것)
 
-## 배웟으나 당장은 못하고 좀 훑어보고 할 수 있는 기술
+## 배웟으나 당장은 못하고 좀 훑어보고 다시 할 수 있는 기술
 - android(학교에서 잘 했으나 안쓴지 오래됨) <br>
 - 유니티(학교 졸업작품 게임개발) <br>
 
